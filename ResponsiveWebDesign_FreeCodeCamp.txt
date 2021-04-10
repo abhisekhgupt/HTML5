@@ -1,0 +1,11 @@
+
+Responsive Web Design Fundamentals:
+
+HTML ELEMENTS-
+ - HTML consists of various element which creates a structure of HTML page.
+ - Most HTML element have opening and closing tags.
+ - Syntax: 
+            <h1>            -- Opening Tag 
+            </h1>           -- Clsoing Tag
+ - Example:
+            <h1> Hello World </h1>
