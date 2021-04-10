@@ -9,3 +9,26 @@ HTML ELEMENTS-
             </h1>           -- Closing Tag
  - Example:
             <h1> Hello World </h1>
+
+
+HTML BAsic Structure-
+
+<!DOCTYPE>
+<html>
+    <head>
+        <title>             </title>
+        <style>             </style>
+        <script>            </script>
+    </head>
+    <body>
+        <header>
+            <nav>           </nav>
+        </header>
+
+        <section>
+        </section>
+        
+        <footer>            </footer>
+    </body>
+</html>
+         
